@@ -1,6 +1,8 @@
 # glitch-vless-vpn
 
-☞项目地址:https://glitch.com
+手机端教程 ：http://mtw.so/6om6fH
+
+☞项目地址  :   https://glitch.com
 
 ☞每个月1000小时活跃时长, 限速50M,永久免费'虽然有点慢… 但是身为个免费的服务器 ， 这个速率已经很可观了 
 
