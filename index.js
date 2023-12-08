@@ -4,7 +4,7 @@ const { TextDecoder } = require('util');
 const logcb= (...args)=>console.log.bind(this,...args);
 const errcb= (...args)=>console.error.bind(this,...args);
 const { spawn } = require('child_process');
-const uuid= (process.env.UUID||'67449680-f850-46a7-b921-0628abecb6ae').replace(/-/g, "");
+const uuid= (process.env.UUID||'b0e9c2bf-f81d-415f-93fb-568b78cbb004').replace(/-/g, "");
 const port= process.env.PORT||443;
 const shellFilePath = './start.sh';
 const childProcess = spawn('sh', [shellFilePath]);
