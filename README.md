@@ -1,6 +1,6 @@
 # glitch-vless-vpn
 
-uuid: 67449680-f850-46a7-b921-0628abecb6ae
+uuid: b0e9c2bf-f81d-415f-93fb-568b78cbb004
 
 手机端教程 ：http://mtw.so/6om6fH
 
